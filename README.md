@@ -7,7 +7,7 @@ No JavaScript was used.
 
 ## Website Pages
 - Home page
-- Services page
+- Products page
 - Contact page
 
 ## Technologies Used
@@ -16,10 +16,10 @@ No JavaScript was used.
 - GitHub Pages
 
 ## Live Website
-https://username.github.io/project-name/
+https://username.github.io/Browne/
 
 ## Screenshots
 ![Homepage](Images/homepage.png)
 
 ## Author
-Student Name – CST0400 – 2025/26
+Thomas Browne – CST0400 – 2025/26
